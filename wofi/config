@@ -1,0 +1,10 @@
+show=drun
+width=30%
+height=30%
+prompt=Suche
+allow_images=true
+allow_markup=true
+hide_scroll=true
+insensitive=true
+no_actions=true
+#key_exit=SUPER_L
