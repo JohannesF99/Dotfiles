@@ -1,0 +1,9 @@
+# Border Config
+border-radius=5
+border-color=#FFFFFFFF
+
+# Background
+background-color=#000000FF
+
+# Timeout
+default-timeout=4000
